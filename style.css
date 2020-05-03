@@ -28,10 +28,7 @@ img {
   display: flex;
 }
 
-.box1,
-.box2,
-.box3,
-.box4 {
+.box {
   border: 1px solid rgb(179, 177, 177);
   border-radius: 3%;
   box-shadow: 0px 2px 3px #a9f5f2;
@@ -46,10 +43,7 @@ img {
     align-items: center;
   }
 
-  .box1,
-  .box2,
-  .box3,
-  .box4 {
+  .box {
     text-align: center;
     max-width: 280px;
     margin: 15px;
@@ -63,10 +57,7 @@ img {
     flex-wrap: wrap;
   }
 
-  .box1,
-  .box2,
-  .box3,
-  .box4 {
+  .box {
     flex: 1 1 46%;
     display: flex;
     align-items: center;
@@ -95,10 +86,7 @@ img {
     max-width: 100%;
   }
 
-  .box1,
-  .box2,
-  .box3,
-  .box4 {
+  .box {
     text-align: center;
     flex-basis: 25%;
     height: 300px;
